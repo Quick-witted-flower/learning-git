@@ -12,4 +12,5 @@ sasiedzi_dict = {
 for kraj, stolica in sasiedzi_dict.items():
     print(f"Kraj: {kraj}, Stolica: {stolica}")
     print("Wszyskie zmiany są mile widziane")
+    print("To wszystko dziwnie wygląda")
 
