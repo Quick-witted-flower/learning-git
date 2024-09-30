@@ -6,10 +6,13 @@ sasiedzi_dict = {
     "Białoruś": "Mińsk",
     "Litwa": "Wilno",
     "Rosja": "Moskwa"
+    "Polska": "Warszawa"
 }
 
 # Iterowanie po kluczach i wartościach
 for kraj, stolica in sasiedzi_dict.items():
     print(f"Kraj: {kraj}, Stolica: {stolica}")
     print("Wszyskie zmiany są mile widziane")
+    print("Moje ulubione miasta")
+    
 
